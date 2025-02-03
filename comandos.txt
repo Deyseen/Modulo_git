@@ -1,0 +1,3 @@
+chmod +x executar_calculadora.sh
+chmod 644 calculadora.py
+./executar_calculadora.sh
